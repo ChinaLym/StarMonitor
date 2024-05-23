@@ -18,11 +18,11 @@
 
 ## 源码调试运行
 
-- 运行 `com.lym.UI.StartUi` 的 `main` 方法
+- [运行 `com.lym.UI.StartUi` 的 `main` 方法](../src/com/lym/UI/StartUi.java)
 
 ## 环境依赖
 
-- 操作系统：`windows`/`linux`/`mac`
+- 操作系统：不限（`windows`/`linux`/`mac`）
 - JDK：`1.8`，
 
 # 关于星控

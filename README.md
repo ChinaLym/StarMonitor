@@ -51,8 +51,9 @@ java -jar StarMonitor.jar
 ![ui-star-command.png](doc/img/ui-star-command.png)
 
 
+# ❓ FAQ
+- [若您遇到问题也优先参考 doc / FAQ.md 或使用 ISSUE 留言👈](doc/FAQ.md)
+
 # 🔬 更多
 
-[如果您想了解软件设计、目录结构、命名由来、使用技术可在 design.md 查看👈](doc/design.md)
-
-
+- [如果您想了解设计细节、源码结构、命名由来、涉及技术等可在 doc / design.md 查看👈](doc/design.md)
