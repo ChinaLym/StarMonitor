@@ -37,14 +37,18 @@ java -jar StarMonitor.jar
 
 ![ui-settings.png](doc/img/ui-settings.png)
 
+> 可以复制星控令给协助者，以减少他人输入 IP、端口号的操作~
+
+![ui-star-command.png](doc/img/ui-star-command.png)
+
 求助者——高级设置（IP过滤、权限设置）——发出求助。
 
 ![ui-settings-advance.png](doc/img/ui-settings-advance.png)
 
-协助者——（先尝试使用已经复制的星控令连接）——设置协助坐标（IP + Port）。
+协助者——设置协助坐标（IP + Port）
+> 进入协助者身份前，若复制了星控令，则会直接进入远程连接画面哦~
 
-![ui-star-command.png](doc/img/ui-star-command.png)
-
+![ui-connect.png](doc/img/ui-connect.png)
 
 # ❓ FAQ
 - [若您遇到问题也优先参考 doc / FAQ.md 或使用 ISSUE 留言👈](doc/FAQ.md)
